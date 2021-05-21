@@ -20,8 +20,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    val dailyNews = News()
-
 
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
